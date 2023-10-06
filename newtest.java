@@ -5,5 +5,6 @@ public static void main(String[] args) {
         System.out.println(i);
     }
     System.out.println("now we in new branch");
+    System.out.println("add num2 in new branch");
 }
 }
