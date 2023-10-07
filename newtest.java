@@ -6,5 +6,6 @@ public static void main(String[] args) {
     }
     System.out.println("now we in new branch");
     System.out.println("after merge");
+    System.out.println("actually im in the main");
 }
 }
